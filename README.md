@@ -22,6 +22,7 @@ Database: MySQL
 ### Usage (POSIX-compatible OSes recommended)
 First initialize virtual environment:
 `. venv/bin/activate`
+
 Then run the `urls.py` to start the test server
 `python urls.py`
 ### Login and register functions
@@ -33,6 +34,6 @@ For register, `email` and `password` should be submitted to `/api/auth` via POST
 
 NOTE:
 
-1.Retrieve or refresh captcha using the url `/api/captcha`.
+1.Retrieve or refresh captcha using the url `/api/captcha`. It will return a 120x34 GIF image
 
 2.Passwords should be MD5-hashed at front-end.
