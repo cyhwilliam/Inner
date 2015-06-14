@@ -1,0 +1,739 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"star",
+				"startDate〔variable〕"
+			],
+			[
+				"e_",
+				"e_title"
+			],
+			[
+				"uk-icon-circ",
+				"uk-icon-circle-o 	UIkit class"
+			],
+			[
+				"button",
+				"uk-button 	UIkit class"
+			],
+			[
+				"links",
+				"links	link - stylesheet"
+			],
+			[
+				"uk-wid",
+				"uk-width-1-2 	UIkit class"
+			],
+			[
+				"horizo",
+				"uk-form-horizontal 	UIkit class"
+			],
+			[
+				"event",
+				"$events_array〔variable〕"
+			],
+			[
+				"eve",
+				"$events_array〔variable〕"
+			],
+			[
+				"even",
+				"events_array"
+			],
+			[
+				"incl",
+				"include〔keyword〕"
+			],
+			[
+				"phot",
+				"photos_host	(statement)"
+			],
+			[
+				"readl",
+				"readlines	function"
+			],
+			[
+				"photo",
+				"photo_url_lst	statement"
+			],
+			[
+				"icon-cir",
+				"uk-icon-circle-o 	UIkit class"
+			],
+			[
+				"ke",
+				"key"
+			],
+			[
+				"json",
+				"json_encode〔function〕"
+			],
+			[
+				"arra",
+				"array	$… = array (…)"
+			],
+			[
+				"array",
+				"array〔keyword〕"
+			],
+			[
+				"wid",
+				"uk-width-3-4 	UIkit class"
+			],
+			[
+				"clear",
+				"clearAddDialog"
+			],
+			[
+				"uk-icon-cro",
+				"uk-icon-circle-o 	UIkit class"
+			],
+			[
+				"uk-butt",
+				"uk-button-danger 	UIkit class"
+			],
+			[
+				"butt",
+				"uk-button-primary 	UIkit class"
+			],
+			[
+				"label",
+				"uk-form-label 	UIkit class"
+			],
+			[
+				"inputt",
+				"inputt	input - time"
+			],
+			[
+				"width",
+				"uk-width-1-1 	UIkit class"
+			],
+			[
+				"i",
+				"i	Tag"
+			],
+			[
+				"scuc",
+				"uk-button-success 	UIkit class"
+			],
+			[
+				"labe",
+				"label	<label>"
+			],
+			[
+				"head",
+				"uk-heading-large 	UIkit class"
+			],
+			[
+				"content",
+				"uk-navbar-content 	UIkit class"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"if",
+				"iframe	<iframe>"
+			],
+			[
+				"ypmconf",
+				"ypm_conf_array"
+			],
+			[
+				"ydi",
+				"ypm_display_in_posts"
+			],
+			[
+				"yp",
+				"$ypm_conf_array〔variable〕"
+			],
+			[
+				"ypm",
+				"$ypm_admin〔variable〕"
+			],
+			[
+				"disp",
+				"display_posts"
+			],
+			[
+				"displa",
+				"$display_in_admin〔variable〕"
+			],
+			[
+				"ypmop",
+				"$ypm_options〔variable〕"
+			],
+			[
+				"uk-w",
+				"uk-width-1-1 	UIkit class"
+			],
+			[
+				"val",
+				"validEmail〔function〕"
+			],
+			[
+				"pas",
+				"$password1〔variable〕"
+			],
+			[
+				"FILTER_VAL",
+				"FILTER_VALIDATE_EMAIL〔constant〕"
+			],
+			[
+				"pa",
+				"password1"
+			],
+			[
+				"prima",
+				"uk-button-primary 	UIkit class"
+			],
+			[
+				"inpsu",
+				"inputs	input - submit"
+			],
+			[
+				"uk-wi",
+				"uk-width-2-4 	UIkit class"
+			],
+			[
+				"sty",
+				"style	<style>"
+			],
+			[
+				"font-f",
+				"font-family: 〔property〕"
+			],
+			[
+				"sea",
+				"search	(function)"
+			],
+			[
+				"fin",
+				"find_first"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"center",
+				"uk-align-center 	UIkit class"
+			],
+			[
+				"cent",
+				"uk-container-center 	UIkit class"
+			],
+			[
+				"uk-alig",
+				"uk-align-center 	UIkit class"
+			],
+			[
+				"ali",
+				"uk-align-center 	UIkit class"
+			],
+			[
+				"pane",
+				"uk-panel-title 	UIkit class"
+			],
+			[
+				"art",
+				"uk-article-divider 	UIkit class"
+			],
+			[
+				"che",
+				"uk-icon-check 	UIkit class"
+			],
+			[
+				"but",
+				"uk-button-primary 	UIkit class"
+			],
+			[
+				"v",
+				"v-model=〔attribute〕"
+			],
+			[
+				"hor",
+				"uk-form-horizontal 	UIkit class"
+			],
+			[
+				"dang",
+				"uk-alert-danger 	UIkit class"
+			],
+			[
+				"avatar",
+				"avatar_src〔variable〕"
+			],
+			[
+				"avatr",
+				"avatar_src"
+			],
+			[
+				"format",
+				"format_exc	function"
+			],
+			[
+				"scr",
+				"script	Tag"
+			],
+			[
+				"len",
+				"__len__	magic"
+			],
+			[
+				"tools",
+				"toolsUnvisible〔function〕"
+			],
+			[
+				"too",
+				"toolsUnvisible〔function〕"
+			],
+			[
+				"getid",
+				"get_id"
+			],
+			[
+				"user",
+				"user_id	(statement)"
+			],
+			[
+				"use",
+				"user_id	statement"
+			],
+			[
+				"has",
+				"has_key	function"
+			],
+			[
+				"get",
+				"getHour"
+			],
+			[
+				"ge",
+				"getMin"
+			],
+			[
+				"ad",
+				"addMin"
+			],
+			[
+				"sub",
+				"submit	.submit()"
+			],
+			[
+				"t_cre",
+				"t_created_at"
+			],
+			[
+				"prev",
+				"prev_password"
+			],
+			[
+				"new_pass",
+				"new_password"
+			],
+			[
+				"new_pas",
+				"new_password"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "db.sql",
+			"settings":
+			{
+				"buffer_size": 703,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Snippet: bs3-navbar-static-top"
+			],
+			[
+				"insal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"package",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"Package",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"function",
+				"Snippet: Function"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"clang",
+				"Snippet: Clang version >= check"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"insa",
+				"Snippet: input - search"
+			],
+			[
+				"packag",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Excelle/Documents/myprog/Inner"
+	],
+	"file_history":
+	[
+		"/Users/Excelle/Documents/myprog/php/wordpress/wp-content/plugins/yuanpaomo.php",
+		"/Users/Excelle/Documents/myprog/py-crawler/crawl2.py",
+		"/Volumes/Users/Public/Documents/Tencent/QQ/UserDataInfo.ini",
+		"/Users/Excelle/Documents/myprog/php/wordpress/wp-content/plugins/hello.php",
+		"/Users/Excelle/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/Excelle/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/Excelle/Documents/myprog/php/pentest/inc/end.php",
+		"/Users/Excelle/Documents/myprog/php/pentest/inc/base.php",
+		"/Users/Excelle/Documents/myprog/php/pentest/wajueji/index.php",
+		"/Users/Excelle/Documents/myprog/php/pentest/index.html",
+		"/Users/Excelle/Desktop/flag.py",
+		"/Users/Excelle/Desktop/flag2.py",
+		"/Users/Excelle/.ShadowsocksX/gfwlist.js",
+		"/Users/Excelle/Downloads/SFML-2.3-osx-clang-universal/include/SFML/Config.hpp",
+		"/Users/Excelle/Downloads/用户必读.txt",
+		"/Users/Excelle/Downloads/MISC/web100.js",
+		"/Users/Excelle/Downloads/MISC/100",
+		"/Users/Excelle/Downloads/reveal.js-3.0.0/README.md",
+		"/Users/Excelle/Documents/myprog/FuckYanghongchun/templates/mainpage.html",
+		"/Users/Excelle/Documents/myprog/FuckYanghongchun/core/orm.py",
+		"/Users/Excelle/Documents/myprog/FuckYanghongchun/core/db.py",
+		"/Users/Excelle/Documents/myprog/FuckYanghongchun/db.sql",
+		"/Users/Excelle/Documents/myprog/FuckYanghongchun/model.py",
+		"/Users/Excelle/Documents/myprog/FuckYanghongchun/apis.py",
+		"/Users/Excelle/Documents/myprog/FuckYanghongchun/urls.py",
+		"/Users/Excelle/Documents/myprog/FuckYanghongchun/templates/__base.html",
+		"/Users/Excelle/PycharmProjects/awesome-python-webapp/www/templates/blogs.html",
+		"/Users/Excelle/Documents/myprog/FuckYanghongchun/templates/login",
+		"/Users/Excelle/Documents/myprog/C/triangle/sin_cos.c",
+		"/Users/Excelle/Documents/myprog/py-equasis-crawler/emails.list",
+		"/Users/Excelle/Documents/myprog/GuessWhat/www/urls.py",
+		"/Users/Excelle/Documents/myprog/GuessWhat/www/resources/js/jquery.min.js",
+		"/Users/Excelle/Documents/myprog/GuessWhatProj/www/templates/rooms.html",
+		"/Users/Excelle/Documents/myprog/GuessWhatProj/www/templates/register.html",
+		"/Users/Excelle/Documents/myprog/GuessWhatProj/www/static/js/timer.js",
+		"/Users/Excelle/Documents/myprog/GuessWhatProj/www/urls.py",
+		"/Users/Excelle/Documents/myprog/GuessWhatProj/www/static/js/paint.js",
+		"/Users/Excelle/Documents/myprog/GuessWhatProj/www/static/js/websocket.js",
+		"/Users/Excelle/Documents/myprog/GuessWhatProj/www/templates/main.html",
+		"/Users/Excelle/Documents/myprog/GuessWhatProj/www/api.py",
+		"/Users/Excelle/Documents/myprog/GuessWhatProj/www/config/config.py",
+		"/Users/Excelle/Documents/myprog/GuessWhatProj/www/captcha.py",
+		"/Users/Excelle/Documents/myprog/GuessWhatProj/www/static/js/chat.js",
+		"/Users/Excelle/Documents/myprog/GuessWhatProj/debuginfo.txt",
+		"/Users/Excelle/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/Excelle/Documents/myprog/GuessWhatProj/www/templates/__base__.html",
+		"/Users/Excelle/Documents/myprog/GuessWhatProj/www/templates/__base__.html~",
+		"/Users/Excelle/Documents/myprog/GuessWhatProj/www/templates/index_page.html",
+		"/Users/Excelle/Documents/myprog/GuessWhatProj/www/config/config_default.py",
+		"/Users/Excelle/Downloads/student scores(1).cpp",
+		"/Users/Excelle/Downloads/student scores.cpp",
+		"/Users/Excelle/Documents/myprog/C/tree/main.c",
+		"/Users/Excelle/Documents/myprog/C/tree/tree.h",
+		"/Users/Excelle/Documents/myprog/py-equasis-crawler/register.py",
+		"/Users/Excelle/Documents/myprog/py-equasis-crawler/email.html",
+		"/Users/Excelle/Documents/myprog/C/safearray/safearray.h",
+		"/Users/Excelle/Documents/myprog/C/safearray/safearray.cpp",
+		"/Users/Excelle/IdeaProjects/gdp/result.xlsx",
+		"/Users/Excelle/Documents/myprog/C/safearray/main.cpp",
+		"/Users/Excelle/Documents/myprog/C/test.cpp",
+		"/Users/Excelle/Downloads/package/README.md",
+		"/Users/Excelle/Documents/myprog/GuessWhatProj/www/socktest.html",
+		"/Users/Excelle/Documents/myprog/GuessWhatProj/www/sock.py",
+		"/Users/Excelle/Documents/myprog/GuessWhatProj/www/socketio_test.html",
+		"/Users/Excelle/Documents/myprog/GuessWhatProj/www/sock.js",
+		"/Users/Excelle/Downloads/package/dist/socket.io.js",
+		"/Users/Excelle/Documents/myprog/cmd_shell/server.py",
+		"/Users/Excelle/Documents/myprog/GuessWhatProj/www/templates/__base__ .bak.html",
+		"/Users/Excelle/Documents/myprog/GuessWhatProj/www/templates/login.html",
+		"/Users/Excelle/PycharmProjects/awesome-python-webapp/www/static/js/vue.min.js",
+		"/Users/Excelle/Documents/myprog/GuessWhatProj/www/templates/login.bak2.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"get_lyrics",
+			"install",
+			"function add_post_meta",
+			"google",
+			"pep8",
+			"data.point",
+			"type",
+			"cance",
+			"avatar",
+			"dump_class"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "db.sql",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 703,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								508,
+								508
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": -1,
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/SQL/SQL.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CppYCM.10":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.11":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.2":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.3":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.4":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.5":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.6":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.8":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "inner.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
