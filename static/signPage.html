@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		Inner|Those days!
+	</title>
+	<meta charset="utf-8"/>
+	<link rel="Shortcut Icon" href="images/logo.png" type="image/x-icon" media="screen">
+	<link rel="stylesheet" type="text/css" href="css/signPage.css">
+	<script src="js/jquery.1.10.2.js"></script>
+</head>
+<body>
+	<div id="topBar">
+		<div id="logo">	
+			<img src="images/logo.png" style="width:20%;"/>
+			<a href="#" style="position:absolute;top:3px;font-size:27px;left:70px;">inner.com</a>
+		</div>	
+		<div id="sign">	
+			<a href="#">登录</a>
+			<a href="signPage.html">注册</a>
+		</div>	
+	</div>
+
+	<div id="signBar">	
+		<div class="opacity"></div>
+		<div id="signBar-title" style="position:absolute;">
+			<h1 id="h1" style="position:absolute;left:200px;top:0; ">加入我们</h1>	
+		</div>
+		<div id="signBar-container" style="position:absolute;">
+			<form>	
+				<div id="userName" class="sign-input" style="top:130px;left:130px;">
+					<input type="text" id="user-name" placeholder="您账户所需用户名"/>
+					<p style="margin:10px;font-family:'微软雅黑';display:none;">请以字母、数字来组成您的用户名</p>
+				</div>
+				<div id="userEmail" class="sign-input" style="top:240px;left:130px;">
+					<input type="email" id="email" placeholder="您账户的注册邮箱"/>
+					<p style="margin:10px;font-family:'微软雅黑';display:none;">请以@来组成电子邮箱</p>
+
+				</div>
+				<div id="userPassword" class="sign-input"style="top:350px;left:130px;">
+					<input type="password" id="password" placeholder="注册密码"/>
+					<p style="margin:10px;font-family:'微软雅黑';display:none;">请输入密码</p>
+				</div>
+				<div id="userPassword2" class="sign-input" style="top:460px;left:130px;">
+					<input type="password" disabled="disabled" id="password2" placeholder="请再次确认您的密码"/>
+					<p style="margin:10px;font-family:'微软雅黑';display:none;">请再次输入密码</p>
+				</div>
+
+				<div id="submit" class="sign-input" style="top:580px;left:130px;width:150px;">
+					<input type="submit"class="form-btn" value="submit" style="border:1px solid #fff;background:none;color:#fff" />
+				</div>
+				<div id="reset" class="sign-input" style="top:580px;left:330px;width:150px;">
+					<input type="reset" class="form-btn" value="reset" style="border:1px solid #fff;background:none;color:#fff"/>
+				</div>
+			</form>
+		</div>
+	</div>
+
+	<img src="images/bg.jpg" style="width:100%;z-index:-2;position:fixed;top:0;left:0;">
+	
+	<script src="js/signPage.js"></script>
+
+</body>
+</html>
