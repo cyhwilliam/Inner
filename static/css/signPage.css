@@ -1,3 +1,11 @@
+@font-face{
+	font-family: 'cyhwill';
+	src:url('../fonts/light.eot');
+	src: local('cyhwill'), 
+              url('../fonts/light.otf') format('truetype'), 
+              url('../fonts/light.svg') format('svg');
+
+} 
 body{
 	width:100%;
 	padding: 0;
@@ -7,10 +15,12 @@ body{
 }
 h1{
 	font-size: 3em;
-	font-family: "微软雅黑";
+	/*font-family: "微软雅黑";*/
+	font-family:'cyhwill' ;
 	color:#fff;
 	cursor: pointer;
 	transition:.2s;
+
 }
 h1:hover{
 	color:#aef;

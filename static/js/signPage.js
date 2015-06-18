@@ -1,17 +1,3 @@
-
-
-
-$("#h1").click(function(event) {
-	/* Act on the event */
-	$(this).parent('div').animate({top:'0'},500);
-	$(this).delay(500).animate({left:'0px'}, 500);
-	$('#signBar-container').delay(1000).animate({opacity:"1"}, 500);
-			
-	});
-
-
-
-
 	$('#user-name').focus(function(event) {
 		/* Act on the event */
 		// $(this).children('p').css('display', 'block');
@@ -105,6 +91,9 @@ $("#h1").click(function(event) {
 
 $(function(){
 	var Length=0;
+	$('#h1').parent('div').animate({top:'0'},500);
+	$('#h1').delay(500).animate({left:'0px'}, 500);
+	$('#signBar-container').delay(1000).animate({opacity:"1"}, 500);
 	});
 
 
