@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"init",
+				"__init__	magic"
+			],
+			[
 				"star",
 				"startDate〔variable〕"
 			],
@@ -344,10 +348,34 @@
 	"buffers":
 	[
 		{
-			"file": "db.sql",
+			"file": "config/config_default.py",
 			"settings":
 			{
-				"buffer_size": 703,
+				"buffer_size": 231,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "captcha.py",
+			"settings":
+			{
+				"buffer_size": 1422,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "api.py",
+			"settings":
+			{
+				"buffer_size": 1042,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "urls.py",
+			"settings":
+			{
+				"buffer_size": 4425,
 				"line_ending": "Unix"
 			}
 		}
@@ -360,16 +388,24 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "ins",
+		"last_filter": "insta",
 		"selected_items":
 		[
 			[
-				"ins",
+				"insta",
 				"Package Control: Install Package"
 			],
 			[
-				"insta",
-				"Snippet: bs3-navbar-static-top"
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"anaconda",
+				"Anaconda: Vagrant Status"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
 			],
 			[
 				"insal",
@@ -378,10 +414,6 @@
 			[
 				"install",
 				"SublimeLinter: Show All Errors"
-			],
-			[
-				"package",
-				"Preferences: Package Control Settings – Default"
 			],
 			[
 				"Package",
@@ -465,10 +497,23 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/Excelle/Documents/myprog/Inner"
+		"/Users/Excelle/Documents/myprog/Inner",
+		"/Users/Excelle/Documents/myprog/Inner/config",
+		"/Users/Excelle/Documents/myprog/Inner/static",
+		"/Users/Excelle/Documents/myprog/Inner/static/fonts"
 	],
 	"file_history":
 	[
+		"/Users/Excelle/Documents/myprog/Inner/captcha.py",
+		"/Users/Excelle/Documents/myprog/Inner/api.py",
+		"/Users/Excelle/Documents/myprog/Inner/urls.py",
+		"/Users/Excelle/Documents/myprog/Inner/config/config.py",
+		"/Users/Excelle/Documents/myprog/Inner/db.sql",
+		"/Users/Excelle/Documents/myprog/Inner/inner.sublime-project",
+		"/Users/Excelle/Documents/myprog/Inner/model.py",
+		"/Users/Excelle/Documents/myprog/Inner/config/__init__.py",
+		"/Users/Excelle/Documents/myprog/Inner/config/config",
+		"/Users/Excelle/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
 		"/Users/Excelle/Documents/myprog/php/wordpress/wp-content/plugins/yuanpaomo.php",
 		"/Users/Excelle/Documents/myprog/py-crawler/crawl2.py",
 		"/Volumes/Users/Public/Documents/Tencent/QQ/UserDataInfo.ini",
@@ -584,31 +629,33 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "db.sql",
+					"file": "config/config_default.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 703,
+						"buffer_size": 231,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								508,
-								508
+								231,
+								231
 							]
 						],
 						"settings":
 						{
-							"function_name_status_row": -1,
+							"auto_complete": false,
+							"function_name_status_row": 12,
+							"open_with_edit": true,
 							"side_bar_folders_auto_load_folder": 1,
-							"syntax": "Packages/SQL/SQL.tmLanguage",
+							"syntax": "Packages/Python/Python.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
@@ -616,7 +663,103 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "captcha.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1422,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 0,
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 50.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "api.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1042,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 0,
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4425,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								911,
+								911
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 36,
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 780.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
