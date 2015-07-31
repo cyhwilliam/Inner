@@ -30,7 +30,7 @@ As is defined in the `urls.py`, index page and register page should be put into 
 
 For register, front-end client should POST data including `username`,`password`,`email` and `captcha` to `/api/register`.
 
-For register, `email` and `password` should be submitted to `/api/auth` via POST method.
+For login, `email` and `password` should be submitted to `/api/auth` via POST method.
 
 NOTE:
 
